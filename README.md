@@ -3,9 +3,9 @@
 </h3>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-- <a href="https://emoji.gg/emoji/11240-ironmanthink"><img src="https://cdn3.emoji.gg/emojis/11240-ironmanthink.png" width="32px" height="32px" alt="IronManThink"></a> I’m currently working on **CI/CD projects with Jenkins, Ansible, Docker and AWS (EC2, S3, RDS, ALB)**  
-
-- <a href="https://emoji.gg/emoji/11240-ironmanthink"><img src="https://cdn3.emoji.gg/emojis/11240-ironmanthink.png" width="32px" height="32px" alt="IronManThink"></a> I’m currently learning **Terraform, Jenkins, Ansible, and Docker**
+- <a href="https://emoji.gg/emoji/11240-ironmanthink"><img src="https://cdn3.emoji.gg/emojis/11240-ironmanthink.png" width="32px" height="32px" alt="IronManThink"></a> I build projects that connect code to infrastructure through automation and CI/CD pipelines.  
+  
+- <a href="https://emoji.gg/emoji/11240-ironmanthink"><img src="https://cdn3.emoji.gg/emojis/11240-ironmanthink.png" width="32px" height="32px" alt="IronManThink"></a> I’m currently learning **AWS Services, Kubernetes and other key DevOps tools**
 
 - <a href="https://emoji.gg/emoji/11240-ironmanthink"><img src="https://cdn3.emoji.gg/emojis/11240-ironmanthink.png" width="32px" height="32px" alt="IronManThink"></a>  What I like to do: **building automation projects, gym 🏋️, cars & F1 🏎️, motocross 🏍️, and coding of course!**  
 
@@ -30,7 +30,6 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ByJeanCa&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByJeanCa&theme=react&layout=compact" />
 </p>
 
